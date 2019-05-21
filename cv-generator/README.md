@@ -6,9 +6,9 @@
 
 3. Unzip resumes and copy `resumes/files/resumes` folder
 
-4. Put copied folder with this script and file `cvs.txt` together to one folder
+4. Put copied folder with [this script][script] and file `cvs.txt` together to one folder
 
-5. Run this script and wait
+5. Run [this script][script] and wait
 
 ##
 
@@ -16,3 +16,4 @@
 
 [tex-source]: https://apply.hackkosice.com/download/CV/tex/
 [resumes]: https://apply.hackkosice.com/download/CV/
+[script]: cv_generator.py
