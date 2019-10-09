@@ -12,7 +12,7 @@
 
 ##
 
-<p align="center"> © Copyright 2018, Martin Števko </p>
+<p align="center"> © Copyright 2018, @MartinŠtevko </p>
 
 [tex-source]: https://apply.hackkosice.com/download/CV/tex/
 [resumes]: https://apply.hackkosice.com/download/CV/
